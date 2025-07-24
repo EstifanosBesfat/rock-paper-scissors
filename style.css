@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(25, 25, 25);
+    color: white;
+    font-size: 25px;
+}
+.title {
+    font-size: 50px;
+    margin: 20px 0;
+    font-weight: bold;
+}
+.emoji {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    
+    
+    
+    padding: 20px;
+}
+.move {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    border: white 5px solid;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+.result {
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.reset-button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: large;
+}
